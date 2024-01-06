@@ -246,3 +246,5 @@ You should see the name "John Doe" printed, demonstrating the use of properties.
 | **Submission** | Successful upload to GitHub and correct submission link provided on Canvas. | 5 |
 | **Total** |  | 100 |
 
+OpenAI. (2024). Introduction to Class Fields and Properties in C#. ChatGPT Conversation.
+
