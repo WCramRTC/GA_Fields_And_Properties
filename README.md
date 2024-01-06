@@ -246,4 +246,3 @@ You should see the name "John Doe" printed, demonstrating the use of properties.
 | **Submission** | Successful upload to GitHub and correct submission link provided on Canvas. | 5 |
 | **Total** |  | 100 |
 
-This tutorial will help students grasp the fundamentals of class fields and properties in C#, understanding how to protect data within a class, and how to use properties for data access and validation.
